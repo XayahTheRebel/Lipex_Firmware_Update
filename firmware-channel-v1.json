@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "repository": "XayahTheRebel/Lipex_Firmware_Update",
   "release": {
-    "id": 452578751,
-    "tag_name": "v2026.11.20.8",
-    "name": "LIPEX 1.3.18+1 磁校准每面真实采样",
-    "published_at": "2026-11-20T10:55:29Z",
-    "html_url": "https://github.com/XayahTheRebel/Lipex_Firmware_Update/releases/tag/v2026.11.20.8",
+    "id": 454947560,
+    "tag_name": "v1.3.19-build1",
+    "name": "V1.3.19+1 — Hips button groups and initial heading",
+    "published_at": "2026-11-23T03:17:33Z",
+    "html_url": "https://github.com/XayahTheRebel/Lipex_Firmware_Update/releases/tag/v1.3.19-build1",
     "draft": false,
     "prerelease": false,
     "assets": [
       {
-        "id": 771475167,
+        "id": 781346357,
         "name": "firmware-catalog-v1.json",
         "state": "uploaded",
-        "size": 1122,
-        "browser_download_url": "https://github.com/XayahTheRebel/Lipex_Firmware_Update/releases/download/v2026.11.20.8/firmware-catalog-v1.json",
-        "digest": "sha256:c90f54ce613601c311908cf52d989d0fb84ecc87799e63c1d4e67c55eba88a35"
+        "size": 1123,
+        "browser_download_url": "https://github.com/XayahTheRebel/Lipex_Firmware_Update/releases/download/v1.3.19-build1/firmware-catalog-v1.json",
+        "digest": "sha256:6f8305d5afa6e6248aab87ee739435db3f02667e9314bf338edf47bb8e380a22"
       },
       {
-        "id": 771475161,
+        "id": 781346354,
         "name": "receiver-serial.zip",
         "state": "uploaded",
-        "size": 107489,
-        "browser_download_url": "https://github.com/XayahTheRebel/Lipex_Firmware_Update/releases/download/v2026.11.20.8/receiver-serial.zip",
-        "digest": "sha256:6882f3ca9322579670c666d42e9e27f9873fc24f5887493a377c0e393db154d2"
+        "size": 107971,
+        "browser_download_url": "https://github.com/XayahTheRebel/Lipex_Firmware_Update/releases/download/v1.3.19-build1/receiver-serial.zip",
+        "digest": "sha256:3c91991f1f3f4f5518174515574fc3cfe4426d3f23d1eaf7d75f5041783eeba9"
       },
       {
-        "id": 771475166,
+        "id": 781346347,
         "name": "tracker-serial.zip",
         "state": "uploaded",
-        "size": 156219,
-        "browser_download_url": "https://github.com/XayahTheRebel/Lipex_Firmware_Update/releases/download/v2026.11.20.8/tracker-serial.zip",
-        "digest": "sha256:cd32f4fed5856e5278b43edf539091da97af998048d5d6d6f6ef8ffab28faf76"
+        "size": 157033,
+        "browser_download_url": "https://github.com/XayahTheRebel/Lipex_Firmware_Update/releases/download/v1.3.19-build1/tracker-serial.zip",
+        "digest": "sha256:b9cab71d4567b2ea56d7557689bef8ddb3d562514f636c6fbe04f62f9fffaa12"
       }
     ]
   }
